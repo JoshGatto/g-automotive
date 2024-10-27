@@ -41,18 +41,22 @@ The project is organized into the following main components:
 To run this project locally:
 
 1. Clone the repository:
+```
 git clone https://github.com/JoshGatto/g-automotive.git
-
+```
 2. Navigate to the project directory:
+```
 cd g-automotive
-
+```
 3. Install dependencies:
+```
 npm install
-
+```
 4. Start the development server:
+```
 npm start
-
-5. Open [https://g-automotive-nine.vercel.app/](https://g-automotive-nine.vercel.app/) to view it in the browser.
+```
+5. Open [http://localhost:3000/](http://localhost:3000/) to view it in the browser.
 
 ## Additional Implementations
 
